@@ -26,3 +26,6 @@ http://sourceforge.net/projects/tinyhttpd/
 
 
     （10） 关闭与浏览器的连接，完成了一次 HTTP 请求与回应，因为 HTTP 是无连接的。
+
+函数执行流程图：
+![Image text](https://raw.githubusercontent.com/nubiaX/Tinyhttpd/master/%E6%B5%81%E7%A8%8B%E5%9B%BE.jpg)
